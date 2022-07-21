@@ -1,0 +1,3 @@
+create  branch use this command  'git branch 'give the project realted name''
+switch the master branch to recently created branch name use this command 'git checkout 'new branch name'
+
