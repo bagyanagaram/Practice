@@ -1,0 +1,8 @@
+Today class Practicing all git commands starts
+Create new floder 
+Use the command for creating new floder 'mkdir give the floder name'
+1.create the 'git init'
+2.create new file 'VI give the file name' after that give any code or text.
+3.after that Enter 'git add . (it add all file untracted to working directory), we need add only praticular one file 'git add give the file name'
+
+
