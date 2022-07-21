@@ -4,5 +4,9 @@ Use the command for creating new floder 'mkdir give the floder name'
 1.create the 'git init'
 2.create new file 'VI give the file name' after that give any code or text.
 3.after that Enter 'git add . (it add all file untracted to working directory), we need add only praticular one file 'git add give the file name'
+4.after use command 'git commit -m "give the msg for meaningfull'
+5.connect the 'git hub remote repository'
+6.after that push code local to remote use the command 'git push origin master'
+after push command excute.check and  open the git hub repository
 
 
